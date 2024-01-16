@@ -1,6 +1,6 @@
 {
-  "name": "foo-library",
-  "version": "0.0.0",
+  "name": "@company/foo-library",
+  "version": "1.2.3",
   "private": true,
   "type": "module",
   "scripts": {

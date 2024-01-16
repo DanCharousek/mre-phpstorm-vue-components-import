@@ -1,5 +1,5 @@
 {
-  "name": "bar-project",
+  "name": "@company/bar-project",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -11,6 +11,7 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
+    "@company/foo-library": "^1.2.3",
     "vue": "^3.3.11"
   },
   "devDependencies": {
